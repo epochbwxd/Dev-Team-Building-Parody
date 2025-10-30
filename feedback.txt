@@ -1,0 +1,2 @@
+# Quick Thoughts
+Review code for optimization
